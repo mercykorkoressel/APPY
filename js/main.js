@@ -32,4 +32,3 @@ else{
 }
 
 
-console.log("we are using GIT!");
